@@ -1,0 +1,11 @@
+v1
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-481c948c-a106-4c77-939b-79f76ee16cbb-c000.snappy.parquet","timestamp":1746818158372,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-f43744d0-cd8f-4c6e-817b-c11164d9faf4-c000.snappy.parquet","timestamp":1746818158704,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-17c99c39-55bb-4faf-ae6e-986599da972e-c000.snappy.parquet","timestamp":1746818158953,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-6eb42e51-a6b4-4992-812b-3d7cd9c1c3e9-c000.snappy.parquet","timestamp":1746818159249,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-2e523f22-2ad7-4b7c-896a-1cf1b407e903-c000.snappy.parquet","timestamp":1746818159512,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-35f24327-cf91-4b55-97ad-d6ae2a1bbdd5-c000.snappy.parquet","timestamp":1746818159749,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-b249ca1f-e6fb-4bbd-8ef0-20a86e3e5e03-c000.snappy.parquet","timestamp":1746818159973,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-194cedc5-d005-41dd-b92d-3bae8242a0dd-c000.snappy.parquet","timestamp":1746818160223,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-2922bbd5-d472-416c-9489-284896b6044e-c000.snappy.parquet","timestamp":1746818160467,"batchId":0}
+{"path":"file:///Users/vaneeshagupta/Desktop/test/bronze/fact_orders/part-00000-d9e717ab-2c61-4dbd-8870-1930896f3d82-c000.snappy.parquet","timestamp":1746818160721,"batchId":0}
