@@ -1,0 +1,2 @@
+v1
+{"path":"file:///Users/vaneeshagupta/Desktop/capstone/spark-warehouse/data_mart_dlh.db/fact_orders/bronze/part-00000-765ea33c-ddbb-4dca-8f92-d61705a1ff02-c000.snappy.parquet","size":3840,"isDir":false,"modificationTime":1746824295823,"blockReplication":1,"blockSize":33554432,"action":"add"}
